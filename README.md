@@ -388,4 +388,10 @@ Add screenshots here for final demo:
 ---
 
 ### Attribution
-**Project made by Shagun Talwar and co-developed by Chirag Garg
+This project was collaboratively developed by:
+
+- Shagun Talwar
+- Manan Soni
+- Chirag Garg
+- Akshat Pareek
+  
